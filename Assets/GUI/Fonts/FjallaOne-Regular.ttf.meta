@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ba35d0d531b4ef2419dbc2ed78b1318f
+timeCreated: 1510933860
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fjalla One
+  fontNames:
+  - Fjalla One
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
