@@ -1,0 +1,9 @@
+[submodule "Assets/OpenIMPRESS/oi.plugin.rgbd"]
+	path = Assets/OpenIMPRESS/oi.plugin.rgbd
+	url = https://github.com/OpenIMPRESS/oi.plugin.rgbd.git
+[submodule "Assets/OpenIMPRESS/oi.core.network"]
+	path = Assets/OpenIMPRESS/oi.core.network
+	url = https://github.com/OpenIMPRESS/oi.core.network.git
+[submodule "Assets/OpenIMPRESS/oi.plugin.audio"]
+	path = Assets/OpenIMPRESS/oi.plugin.audio
+	url = https://github.com/OpenIMPRESS/oi.plugin.audio.git
